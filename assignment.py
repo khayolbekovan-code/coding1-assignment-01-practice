@@ -1,3 +1,4 @@
+# Assign string to variable 1
 name = "Ada"
 first_letter = name[0]
 second_letter = name[1]
